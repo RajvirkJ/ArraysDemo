@@ -10,12 +10,21 @@ public class Student {
     
     private String sID;
     private String sName;
+    private String address;
 
     public Student(String sID, String sName) {
         this.sID = sID;
         this.sName = sName;
     }
     //comment added at 1:29 PM
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
     
 
     public String getsID() {
