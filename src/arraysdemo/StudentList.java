@@ -2,7 +2,7 @@
 package arraysdemo;
 
 //main method
-// comment added again
+//comment added again
 public class StudentList {
     public static void main(String[] args) {
     Student s1 = new Student("s1", "Rajvir");
