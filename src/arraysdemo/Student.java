@@ -11,6 +11,7 @@ public class Student {
     
     //instance variable
     private String sID;
+    //instance variable
     private String sName;
     private String address;
 
