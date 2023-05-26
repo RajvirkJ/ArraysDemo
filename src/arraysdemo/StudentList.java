@@ -1,7 +1,7 @@
 
 package arraysdemo;
 
-
+//main method
 public class StudentList {
     public static void main(String[] args) {
     Student s1 = new Student("s1", "Rajvir");
