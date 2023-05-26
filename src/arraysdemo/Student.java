@@ -9,7 +9,7 @@ public class Student {
     // comment added at 12:30
     //comment added for fetch and merge
     
-    
+    //instance variable
     private String sID;
     private String sName;
     private String address;
